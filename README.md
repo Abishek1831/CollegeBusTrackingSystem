@@ -194,6 +194,8 @@ public Firebase Realtime Database. That's normal for this kind of app, but
 there are a few things worth understanding before you deploy or extend it —
 see [**SECURITY.md**](SECURITY.md).
 
+## Driver App
+The bus driver will have a app for sending the location, instead of using gps module this will make costfree
 ## Author
 
 **Abishek D** — built for Rajalakshmi Engineering College Transport.
