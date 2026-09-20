@@ -108,9 +108,9 @@ bus-tracking/
 │   │   └── styles.css          
 │   └── js/
 │       ├── firebase-config.js 
-│       └── script.js           # App logic: routes, map, GPS updates, UI
+│       └── script.js           
 ├── docs/
-│   └── FEATURES.md             # Detailed feature documentation
+│   └── FEATURES.md            
 ├── README.md
 ├── SECURITY.md
 ├── LICENSE
