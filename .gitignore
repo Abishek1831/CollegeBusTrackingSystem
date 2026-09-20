@@ -1,0 +1,32 @@
+# --- IDE / editor files ---
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# --- OS files ---
+.DS_Store
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# --- Logs ---
+*.log
+
+# --- Temporary / cache files ---
+*.tmp
+*.temp
+*.bak
+*.swp
+*~
+
+# --- If you later add tooling (npm/node) ---
+node_modules/
+dist/
+.env
+.env.*
+
+# --- Optional: uncomment if you'd rather not commit Firebase config ---
+# (the API key itself isn't secret — see SECURITY.md — but some teams
+# prefer keeping project-specific config out of the repo anyway)
+# assets/js/firebase-config.js
