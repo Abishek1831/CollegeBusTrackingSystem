@@ -102,12 +102,12 @@ nothing to install or build.
 
 ```
 bus-tracking/
-├── index.html                  # Main page (structure + CDN script/style tags)
+├── index.html                  
 ├── assets/
 │   ├── css/
-│   │   └── styles.css          # All styling, including light/dark theme
+│   │   └── styles.css          
 │   └── js/
-│       ├── firebase-config.js  # Firebase project config (loads before script.js)
+│       ├── firebase-config.js 
 │       └── script.js           # App logic: routes, map, GPS updates, UI
 ├── docs/
 │   └── FEATURES.md             # Detailed feature documentation
